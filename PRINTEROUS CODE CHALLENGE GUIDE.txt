@@ -1,0 +1,32 @@
+Printerous Code Challenge - Daniel Wijaya
+
+Guide:
+Aplikasi ini menggunakan framework CodeIgniter(CI) versi 3.
+Untuk dapat menjalankan aplikasi, hanya perlu untuk memindahkan folder printerous ke htdocs web server,
+dan import database Mysql dengan file printerous.sql
+
+Terdapat 3 privilege dalam aplikasi ini, yaitu:
+- Normal Account (NA)
+Dapat login dan melihat organization serta PIC
+
+- Account Manager (AM)
+Dapat login, melihat, merubah, serta menghapus organization serta PIC yang telah di assign padanya melalui Admin (ADM)
+
+- Admin (ADM)
+Dapat login, melihat, merubah, serta menghapus organization serta PIC dan dapat melihat, merubah, serta menghapus account - account pada aplikasi
+
+
+Berikut daftar akun yang telah ada dalam aplikasi untuk memudahkan proses pengecekkan:
+
+- Admin 
+username: printerousADM@gmail.com
+pass: printerous
+
+- Account Manager
+username: printerousAM@gmail.com
+pass: printerous
+
+- Normal Account 
+username: printerousNA@gmail.com
+pass: printerous
+ 
